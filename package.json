@@ -1,0 +1,27 @@
+{
+  "name": "ts-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malteecool/TS-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malteecool/TS-intro/issues"
+  },
+  "homepage": "https://github.com/malteecool/TS-intro#readme"
+}
